@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/md_white_1000">
+
+            <TextView
+                android:id="@+id/tvNameList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:layout_gravity="center_vertical|start"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/material_drawer_primary_text" />
+
+            <TextView
+                android:id="@+id/tvDateCreated"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_gravity="end|bottom"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="@color/material_drawer_secondary_text" />
+
+</FrameLayout>

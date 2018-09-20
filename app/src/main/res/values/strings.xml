@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SL</string>
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="drawer_item_about">О программе</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="name_shopping_list">Имя списка покупок</string>
+    <string name="create">Создать</string>
+    <string name="shopping_list_not_created">Список покупок не был создан</string>
+    <string name="shopping_list_not_rename">Список не был переименован</string>
+    <string name="remove">Удалить</string>
+    <string name="list_action">Действие со списком</string>
+    <string name="name_product">Название продукта</string>
+    <string name="count">Кол-во</string>
+    <string name="price">Цена</string>
+    <string name="rubles">руб.</string>
+    <string name="necessarily_buy">Купить обязвтельно</string>
+    <string name="comment">Комментарий</string>
+    <string name="category">Категория</string>
+    <string name="rename">Переименовать</string>
+    <string name="product_not_create">Продукт не был создан</string>
+    <string name="do_with_shopping_list">Действия со списком</string>
+    <string name="fill_in_the_prices_now">Внести цены продуктов сейчас</string>
+    <string name="fill_in_the_prices_later">Вносить цены продуктов в магазине</string>
+    <string name="not_fill_in_the_prices">Не заполнять стоимость</string>
+    <string name="change">Изменить</string>
+    <string name="name_category">Имя категории</string>
+
+    <string-array name="units_products">
+        <item>шт.</item>
+        <item>л.</item>
+        <item>рул.</item>
+        <item>г.</item>
+    </string-array>
+
+    <string-array name="names_items">
+        <item>Удалить</item>
+        <item>Переименовать</item>
+    </string-array>
+
+</resources>

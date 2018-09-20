@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create">Создать</string>
+    <string name="fill_in_the_prices_now">Внести цены продуктов сейчас</string>
+    <string name="fill_in_the_prices_later">Вносить цены продуктов в магазине</string>
+    <string name="not_fill_in_the_prices">Не заполнять стоимость</string>
+</resources>
